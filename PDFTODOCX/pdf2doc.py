@@ -21,8 +21,8 @@ def pdf_to_doc(pdf_path, doc_path):
 
 if __name__ == "__main__":
     # Specify the paths to the input PDF and output DOCX files
-    pdf_path = '../ECARDPDF_banasree_24-25.pdf'
-    doc_path = '../output.docx'
+    pdf_path = '../Form_28 (48).pdf'
+    doc_path = '../Form_28.docx'
     
     # Convert the PDF to DOCX
     pdf_to_doc(pdf_path, doc_path)
